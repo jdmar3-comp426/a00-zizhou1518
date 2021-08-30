@@ -1,0 +1,26 @@
+{
+  "name": "a00",
+  "version": "1.0.0",
+  "description": "\"\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \\\"Error: no test specified\\\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://zizhou1518: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@github.com/jdmar3-comp426/a00-zizhou1518.git"
+  },
+  "keywords": [
+    "\"\""
+  ],
+  "author": "\"\"",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jdmar3-comp426/a00-zizhou1518/issues"
+  },
+  "homepage": "https://github.com/jdmar3-comp426/a00-zizhou1518#readme",
+  "dependencies": {
+    "browser-sync": "^2.27.5"
+  },
+  "devDependencies": {}
+}
